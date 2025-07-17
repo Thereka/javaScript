@@ -36,7 +36,24 @@ let age=19;
 let vote=age>=18? "Eligible to vote" :"Not eligible to vote";
 console.log(vote);
 
-
+//output
+// 25
+// 125
+// 5
+// Comparision opertator  
+// false
+// false
+// true
+// false
+// true
+// Logical operator 
+// 10
+// 5
+// false
+// String operator 
+// Hello Everyone!
+// Ternary operetor 
+// Eligible to vote
 
 
 
