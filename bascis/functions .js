@@ -52,3 +52,20 @@ let a=Greet();
 console.log(a);
 
 
+//arrow function
+let check=(n)=>{
+    if(n%2==0){
+        return "even";
+    }else{
+        return "odd";
+    }
+}
+console.log(check(12));
+ 
+ //product of the number
+let mul=function(a,b){
+    console.log("product of the numbers: "+a*b);
+} 
+mul(2,3);
+
+
